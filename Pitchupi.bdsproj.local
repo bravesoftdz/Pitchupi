@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/07/16 06:57:25.984.pas,C:\Documents and Settings\tif.THIEF\My Documents\Borland Studio Projects\Unit2.pas=C:\Sources\Pitchupi OP\mainForm.pas</Transaction>
+    <Transaction>2007/07/16 06:57:25.999.dfm,C:\Documents and Settings\tif.THIEF\My Documents\Borland Studio Projects\Unit2.dfm=C:\Sources\Pitchupi OP\mainForm.dfm</Transaction>
+    <Transaction>2007/07/16 06:57:49.452.bdsproj,C:\Documents and Settings\tif.THIEF\My Documents\Borland Studio Projects\Project2.bdsproj=C:\Sources\Pitchupi OP\PitchupiOP.bdsproj</Transaction>
+    <Transaction>2007/07/16 08:28:07.312.pas,C:\Sources\Pitchupi OP\Unit1.pas=C:\Sources\Pitchupi OP\Pitchupi.pas</Transaction>
+    <Transaction>2007/07/16 10:06:01.515.pas,C:\Sources\Pitchupi OP\Unit1.pas=C:\Sources\Pitchupi OP\threadtest.pas</Transaction>
+    <Transaction>2007/07/16 10:07:35.624.pas,C:\Sources\Pitchupi OP\Unit1.pas=C:\Sources\Pitchupi OP\FileTransfer.pas</Transaction>
+    <Transaction>2007/07/16 10:07:40.327.pas,C:\Sources\Pitchupi OP\threadtest.pas=</Transaction>
+    <Transaction>2007/07/16 10:10:05.968.pas,C:\Sources\Pitchupi OP\FileTransfer.pas=</Transaction>
+    <Transaction>2007/07/16 10:24:39.562.pas,C:\Sources\Pitchupi OP\Unit1.pas=C:\Sources\Pitchupi OP\FileTransfer.pas</Transaction>
+    <Transaction>2007/07/20 19:23:07.562.pas,C:\Sources\Pitchupi\Pitchupi.pas=C:\Sources\Pitchupi\PitchupiProtocol.pas</Transaction>
+    <Transaction>2007/07/20 19:23:24.718.bdsproj,C:\Sources\Pitchupi\PitchupiOP.bdsproj=C:\Sources\Pitchupi\Pitchupi.bdsproj</Transaction>
+    <Transaction>2007/07/23 20:20:07.328.pas,C:\Sources\Pitchupi\PitchupiProtocol.pas=C:\Sources\Pitchupi\PiUtils.pas</Transaction>
+    <Transaction>2007/07/30 15:06:06.906.pas,C:\Program Files\Borland\BDS\4.0\Demos\DelphiWin32\VCLWin32\VirtualListView\VListView.pas=</Transaction>
+    <Transaction>2007/07/30 15:06:06.922.dfm,C:\Program Files\Borland\BDS\4.0\Demos\DelphiWin32\VCLWin32\VirtualListView\VListView.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
